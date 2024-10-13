@@ -1,6 +1,6 @@
 ### IBM Capstone Project Overview
 
-Welcome to my IBM Data Analyst Capstone Project, where I served as a Data Analyst for an IT and Business Bonsulting organization. This firm was well-regarded for its expertise in IT solutions and its team of highly skilled professionals. To remain competitive in the rapidly evolving technological landscape, the company regularly analyzed data to identify future skill requirements. My role involved collecting data from various sources and spotting trends for that year’s report on emerging skills.
+Welcome to my <a href="https://www.coursera.org/professional-certificates/ibm-data-analyst"> IBM Data Analyst Capstone Project </a>, where I served as a Data Analyst for an IT and Business Bonsulting organization. This firm was well-regarded for its expertise in IT solutions and its team of highly skilled professionals. To remain competitive in the rapidly evolving technological landscape, the company regularly analyzed data to identify future skill requirements. My role involved collecting data from various sources and spotting trends for that year’s report on emerging skills.
 
 The data analysis process was documented in uploaded files covering six modules.
 
